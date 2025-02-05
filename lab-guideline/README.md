@@ -11,7 +11,7 @@
 - **저장소 옵션**:
   - 테크포임팩트 깃허브 services/ (Private)
   - 펠로우 조직 깃허브 or 로컬 환경
-- [📚 상세 가이드 보기](./service-code/)
+- [상세 가이드 보기](./service-code/)
 
 ### 2. Open Source (랩 당 최소 1개 필수)
 재사용 가능한 형태로 모듈화된 코드
@@ -19,18 +19,18 @@
 - 랩 당 최소 1개의 오픈소스 모듈 제출 필수 (추가 제출 가능)
 - 테크포임팩트 깃허브의 labs/ 레포지토리에 공개
 - 메인테이너 제도를 통한 1년 단위 관리
-- [📚 상세 가이드 보기](./open-source/)
+- [상세 가이드 보기](./open-source/)
 
 ### 3. Open Dataset (해당되는 경우)
 가공된 고품질의 데이터셋
 
 - 테크포임팩트 홈페이지의 데이터셋 섹션에 공개 예정
-- [📚 상세 가이드 보기](./open-dataset/)
+- [상세 가이드 보기](./open-dataset/)
 
 ## 📁 레포지토리 구조
 
 ```
-tfi-labs-technical-deliverables/
+lab-guideline/
 ├── service-code/          # 서비스 코드 관련 가이드라인
 ├── open-source/           # 오픈소스 제출 가이드라인
 └── open-dataset/          # 데이터셋 제출 가이드라인

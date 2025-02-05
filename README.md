@@ -1,1 +1,1 @@
-# tech for impact templates
+# tech for impact guidelines
