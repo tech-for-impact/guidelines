@@ -36,9 +36,9 @@ Tech for Impact의 다양한 프로젝트와 결과물에 대한 종합적인 �
 - 주기적인 리뷰를 통한 업데이트 진행
 
 ## 📌 문의
-문의사항은 이메일로 연락 주세요 :
-카카오임팩트 테일러(taylor.7@kakaoimpact.org)
+문의사항은 이메일로 연락 주세요 : <br>
+카카오임팩트 김민석 매니저(taylor.7@kakaoimpact.org)
 
 ## ⚖️ 라이센스
-본 가이드라인은 카카오임팩트의 자산으로, 무단 복제 및 배포를 금지합니다.
-![카카오임팩트 로고](../acknowledgement/assets/kakao_impact_logo.png)
+본 가이드라인은 카카오임팩트의 자산으로, 무단 복제 및 배포를 금지합니다. <br>
+![카카오임팩트 로고](./guidelines/acknowledgement/assets/kakao_impact_logo.png)
