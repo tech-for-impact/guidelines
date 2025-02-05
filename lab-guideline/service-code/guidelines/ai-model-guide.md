@@ -11,6 +11,13 @@
   1. GitHub 리포지토리의 `/docs` 폴더에 마크다운 형식으로 작성
   2. GitBook으로 작성 후 해당 링크를 GitHub README.md에 포함
 
+## 📑 목차
+
+- [Must-have 항목](#Must-have-항목)
+- [Nice-to-have 항목](#nice-to-have-항목)
+- [셀프 체크리스트](#-셀프-체크리스트)
+- [셀프 평가 기준](#-셀프-평가-기준)
+
 ## Must-have 항목
 
 ### 1. 소스 코드
