@@ -6,26 +6,55 @@
 ## 📦 제출 항목
 
 1. **서비스 코드**
-  - 실제 서비스 운영에 필요한 전체 소스 코드
-  - 테스트 코드 포함
+ - 실제 서비스 운영에 필요한 전체 소스 코드
+ - 테스트 코드 포함
 
 2. **기술 문서 및 사용자 매뉴얼**
-    - [프로젝트 유형별 문서](./guidelines/project-type-guide.md)
-    - 환경 설정 및 배포 문서
-    - 사용자 매뉴얼 
-    - 운영 인수인계 문서
+   - [프로젝트 유형별 문서](./guidelines/project-type-guide.md)
+   - 환경 설정 및 배포 문서
+   - 사용자 매뉴얼 | (참고)[템플릿](./templates/user-manual.md)
+   - 운영 인수인계 문서 | (참고)[템플릿](./templates/handover-doc.md)
 
 ## 📂 저장소 옵션
 
 프로젝트 특성에 따라 아래 저장소 중 하나를 선택하여 제출합니다:
 
-1. **TFI GitHub (Private)**
-  - 카카오임팩트가 직접 운영/관리하는 서비스
-  - 민감한 정보가 포함된 프로젝트
-  
+1. **Tech For Impact GitHub (Private)**
+ - 카카오임팩트가 직접 운영/관리하는 서비스
+ - 민감한 정보가 포함된 프로젝트
+ 
+ ### Tech For Impact GitHub 저장소 생성 프로세스
+ 1. **권한 요청**
+    - 슬랙 채널 #99-lab-qna에서 아래 정보와 함께 권한 요청:
+      ```
+      - 프로젝트명:
+      - GitHub 계정:
+      - 필요 권한 기간:
+      - 사용 목적: 서비스 코드 레포지토리 생성
+      ```
+    - 담당자가 Organization member 권한 및 레포지토리 생성 권한 부여 (24시간 이내)
+ 
+ 2. **저장소 생성**
+    - Organization 초대 수락 후 저장소 생성 가능
+    - 저장소명 형식: `services-[프로젝트명]`
+      - 예: `services-a-eye`, `services-dva`
+    - Private 저장소로 설정 필수
+ 
+ 3. **접근 권한 관리**
+    A. 레포 생성자 권한
+       - Organization 레벨: Repository creation 권한
+       - Repository 레벨: Admin 권한 (팀원 초대 및 권한 관리 가능)
+    
+    B. 팀원 권한 관리
+       - 레포 생성자가 GitHub Repository Settings에서 직접 관리
+       - 권한 종류:
+         - Write: 코드 Push, Pull Request 생성 가능
+         - Read: 코드 확인 및 Pull Request 리뷰만 가능
+       - 이관 완료 후 전체 팀원 Read-only로 변경됨
+
 2. **펠로우 조직 GitHub or Local 환경**
-  - 펠로우 조직이 직접 운영/관리하는 서비스
-  - 기존 시스템과 통합되는 프로젝트
+ - 펠로우 조직이 직접 운영/관리하는 서비스
+ - 기존 시스템과 통합되는 프로젝트
 
 ## 📝 문서 작성 가이드
 - [프로젝트 유형별 문서 가이드라인](./guidelines/project-type-guide.md)
