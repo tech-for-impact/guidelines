@@ -41,6 +41,7 @@
     - Private 저장소로 설정 필수
  
  3. **접근 권한 관리**
+ <br>
     A. 레포 생성자 권한
        - Organization 레벨: Repository creation 권한
        - Repository 레벨: Admin 권한 (팀원 초대 및 권한 관리 가능)
