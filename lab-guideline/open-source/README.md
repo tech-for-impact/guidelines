@@ -89,6 +89,8 @@
    * Tech for Impact GitHub 프로필 등재
    * 카카오임팩트 공식 컨트리뷰터 인증
 
+- [메인테이너 제도 상세 보기](./guidelines/maintainer.md)
+
 ## 📌 참고 문서
 * [GitHub 저장소 구조 가이드](./guidelines/github-structure-guide.md)
 * [오픈소스 라이선스 가이드](./guidelines/license-guide.md)
@@ -99,5 +101,5 @@
 * 담당자: 테일러(카카오임팩트)
 
 ## ⚖️ 라이센스
-본 가이드라인은 카카오임팩트의 자산으로, 무단 복제 및 배포를 금지합니다. <br>
+본 가이드라인은 카카오임팩트의 자산으로, 무단 복제 및 배포를 금지합니다. <br><br>
 ![카카오임팩트 로고](../../acknowledgement/assets/kakao_impact_logo.png)
