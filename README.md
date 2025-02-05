@@ -1,1 +1,1 @@
-템플릿 전체 가이드~~
+# tech for impact templates
