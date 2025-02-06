@@ -1,4 +1,4 @@
-# Open Dataset Guidelines
+# Tech for Impact Labs : Open Dataset Guidelines
 
 ## Overview
 Tech for Impact의 오픈 데이터셋은 사회문제 해결을 위한 기술 개발에 필요한 데이터를 공유하고, 이를 통해 더 큰 임팩트를 만들어내는 것을 목표로 합니다.
@@ -37,6 +37,7 @@ Tech for Impact의 오픈 데이터셋은 사회문제 해결을 위한 기술 �
    - 실제 데이터는 외부 저장소 링크로 제공
 
 ## 📝 데이터셋 문서화 요구사항
+1. **기본 문서화**
 - 모든 데이터셋은 제공된 README 템플릿을 기반으로 작성
 - 각 섹션별 필수 포함 내용:
  - 개요: 데이터셋 목적, 특징, 펠로우 조직 정보
@@ -48,6 +49,11 @@ Tech for Impact의 오픈 데이터셋은 사회문제 해결을 위한 기술 �
  - 연락처: 담당자 정보
 
 ➡️ [README 템플릿](./templates/dataset-readme-template.md) 참고
+
+2. **테크포임팩트 보증**
+- README.md에 테크포임팩트 보증 섹션 포함
+- 데이터셋 메타데이터에 출처 정보 명시
+- 자세한 내용은 [보증 가이드라인](../../Certification/README.md) 참고
 
 ## 📌 문의
 문의사항은 슬랙 채널로 연락주세요:

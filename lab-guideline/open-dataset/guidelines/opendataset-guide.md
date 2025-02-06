@@ -1,4 +1,4 @@
-# Open Dataset Technical Guidelines
+# Tech for Impact Labs : Open Dataset Technical Guidelines
 
 ## 1. 데이터셋 라이선스 선택
 

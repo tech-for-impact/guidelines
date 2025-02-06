@@ -12,7 +12,7 @@ Tech for Impact의 다양한 프로젝트와 결과물에 대한 종합적인 �
 - [서비스 코드 가이드](./lab-guideline/service-code/README.md): 서비스 코드 제출 및 운영 가이드
 - [오픈소스 가이드](./lab-guideline/open-source/README.md): 오픈소스 프로젝트 운영 가이드
 - [데이터셋 가이드](./lab-guideline/open-dataset/README.md): 오픈 데이터셋 공개 가이드
-- 사사표기 가이드(예정): 결과물 사사표기 가이드
+- [서비스 보증 가이드](./Certification/README.md)): 결과물 카카오임팩트 보증 가이드
 
 ## 📂 저장소 구조
 ```

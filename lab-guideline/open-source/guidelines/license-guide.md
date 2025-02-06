@@ -1,4 +1,4 @@
-# Tech for Impact 권장 오픈소스 라이선스
+# Tech for Impact Labs : 권장 오픈소스 라이선스
 
 ### 권장 라이선스 유형
 1. **GPL (GNU General Public License)**

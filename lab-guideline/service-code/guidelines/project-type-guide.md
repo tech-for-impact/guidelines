@@ -1,6 +1,6 @@
-# Technical Documentation Guidelines by Project Type
+# Tech for Impact Labs : Technical Documentation Guidelines by Project Type
 
-각 프로젝트 유형별 필수 제출 문서 가이드라인입니다. 프로젝트 특성에 맞는 가이드라인을 참고해주세요.
+테크포임팩트 랩 각 프로젝트 유형별 필수 제출 문서 가이드라인입니다. 프로젝트 특성에 맞는 가이드라인을 참고해주세요.
 
 ## 제출 방식
 - 모든 문서는 다음 두 가지 방식 중 선택하여 제출:

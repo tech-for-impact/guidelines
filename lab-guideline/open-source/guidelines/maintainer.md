@@ -1,4 +1,4 @@
-# Tech for Impact Open Source Maintainer Guidelines
+# Tech for Impact Labs : Open Source Maintainer Guidelines
 
 > ⚠️ **알림**: 본 메인테이너 제도의 세부 운영 방안(공식 인증 절차, 커뮤니티 활동 등)은 현재 기획 중이며, 2025년 3월 초 확정하여 공지될 예정입니다.
 
