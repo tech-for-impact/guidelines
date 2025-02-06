@@ -1,4 +1,4 @@
-# TFI Labs Technical Deliverables Guide
+# Tech for Impact Labs : Technical Deliverables Guide
 
 안녕하세요, 테크포임팩트 사무국입니다 😊 <br>
 이 가이드라인은 테크포임팩트 랩의 기술 성과물 제출을 위한 안내문서입니다.
