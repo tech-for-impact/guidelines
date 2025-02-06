@@ -27,24 +27,24 @@
 2. **레포지토리 생성**
 - Organization 초대 수락 후 레포지토리 생성 가능
 - 레포지토리명 형식: `oss-[오픈소스 프로젝트명]`
-  - 예: `oss-abc-z`
-  - Public으로 설정
+    - 예: `oss-abc-z`
+    - Public으로 설정
 
 3. **접근 권한 관리**
 - 레포 생성자 권한
-  - Organization 레벨: Repository creation 권한
-  - Repository 레벨: Admin 권한 (팀원 초대 및 권한 관리 가능)
+    - Organization 레벨: Repository creation 권한
+    - Repository 레벨: Admin 권한 (팀원 초대 및 권한 관리 가능)
    
 - 팀원 권한 관리
-  - 레포 생성자가 GitHub Repository Settings에서 직접 관리
-  - 권한 종류:
-    - Write: 코드 Push, Pull Request 생성 가능
-    - Read: 코드 확인 및 Pull Request 리뷰만 가능
+    - 레포 생성자가 GitHub Repository Settings에서 직접 관리
+    - 권한 종류:
+        - Write: 코드 Push, Pull Request 생성 가능
+        - Read: 코드 확인 및 Pull Request 리뷰만 가능
    
 - 메인테이너 권한
-  - Admin 권한 부여 (코드 리뷰, 머지, 이슈 관리 등)
-    - 메인테이너 권한은 레포 생성자가 직접 부여
-    - 프로젝트 완료 후에도 Admin 권한 유지
+    - Admin 권한 부여 (코드 리뷰, 머지, 이슈 관리 등)
+        - 메인테이너 권한은 레포 생성자가 직접 부여
+        - 프로젝트 완료 후에도 Admin 권한 유지
 
 ## 📝 문서화 항목
 1. **README.md**

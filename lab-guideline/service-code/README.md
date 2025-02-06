@@ -38,19 +38,19 @@
   - Organization 초대 수락 후 레포지토리 생성 가능
   - 레포지토리명 형식: `services-[프로젝트명]`
     - 예: `services-a-eye`, `services-dva`
-  - Private로 설정 필수
+  Private로 설정 필수
  
  3. **접근 권한 관리**
- - 레포 생성자 권한
-  - Organization 레벨: Repository creation 권한
-  - Repository 레벨: Admin 권한 (팀원 초대 및 권한 관리 가능)
+  - 레포 생성자 권한
+    - Organization 레벨: Repository creation 권한
+    - Repository 레벨: Admin 권한 (팀원 초대 및 권한 관리 가능)
     
  - 팀원 권한 관리
   - 레포 생성자가 GitHub Repository Settings에서 직접 관리
     - 권한 종류:
       - Write: 코드 Push, Pull Request 생성 가능
       - Read: 코드 확인 및 Pull Request 리뷰만 가능
- - 이관 완료 후 전체 팀원 Read-only로 변경됨
+    - 이관 완료 후 전체 팀원 Read-only로 변경됨
 
 2. **펠로우 조직 GitHub or Local 환경**
  - 펠로우 조직이 직접 운영/관리하는 서비스
