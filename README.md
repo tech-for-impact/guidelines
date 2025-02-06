@@ -12,19 +12,19 @@ Tech for Impact의 다양한 프로젝트와 결과물에 대한 종합적인 �
 - [서비스 코드 가이드](./lab-guideline/service-code/README.md): 서비스 코드 제출 및 운영 가이드
 - [오픈소스 가이드](./lab-guideline/open-source/README.md): 오픈소스 프로젝트 운영 가이드
 - [데이터셋 가이드](./lab-guideline/open-dataset/README.md): 오픈 데이터셋 공개 가이드
-- [서비스 보증 가이드](./Certification/README.md)): 결과물 카카오임팩트 보증 가이드
+- [서비스 보증 가이드](./Certification/README.md): 서비스 카카오임팩트 보증 가이드
 
 ## 📂 저장소 구조
 ```
 /guidelines
-├── acknowledgement/        # (예정) 사사표기 가이드
+├── certification/        # 서비스 보증 가이드
 │   ├── assets/            # 로고 등 리소스
 │   ├── components/        # 공통 컴포넌트
 │   └── types/            # 타입 정의
 
 ├── campus-guideline/      # (예정) 테크포임팩트 캠퍼스 가이드
 │
-└── lab-guideline/        # 테크포임팩트 랩스 가이드
+└── lab-guideline/        # 테크포임팩트 랩 가이드
 ├── open-dataset/     # 오픈 데이터셋 가이드
 ├── open-source/      # 오픈소스 프로젝트 가이드
 └── service-code/     # 서비스 코드 가이드
