@@ -1,4 +1,4 @@
-# Tech for Impact Open Dataset Guidelines
+# Open Dataset Guidelines
 
 ## Overview
 Tech for Impact의 오픈 데이터셋은 사회문제 해결을 위한 기술 개발에 필요한 데이터를 공유하고, 이를 통해 더 큰 임팩트를 만들어내는 것을 목표로 합니다.
