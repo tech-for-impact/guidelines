@@ -17,22 +17,9 @@
    - 최종 논문 정보 공유 (DOI, 저널명, 권호 등)
    - (카카오임팩트) 테크포임팩트 홈페이지에 연구 성과 게재 검토
 
-## 2. 소속 표기
-### 2.1 테크포임팩트 랩
-- 국내 논문
-  - 제1저자/교신저자: [소속 LAB명], 모두의연구소
-  - '모두의연구소'는 띄어쓰기 없이 표기
-- 해외 논문
-  - 제1저자/교신저자: [소속 LAB명(영문)], MODULABS
-  - 'MODULABS'는 대문자로 표기
+## 2. 국내 논문 사사표기
 
-### 2.2 테크포임팩트 캠퍼스
-- 국내 논문: 본인 소속 대학교의 소속 표기 기준을 따름
-- 해외 논문: 본인 소속 대학교의 영문 소속 표기 기준을 따름
-
-## 3. 국내 논문 사사표기
-
-### 3.1 한글 논문
+### 2.1 한글 논문
 - 각주 형식:
   "본 연구는 카카오임팩트 테크포임팩트 프로그램의 지원을 받아 수행되었음"
 
@@ -40,7 +27,7 @@
   - 랩: "본 연구는 카카오임팩트 테크포임팩트 랩 2기('24) 프로그램의 지원을 받아 수행되었음"
   - 캠퍼스: "본 연구는 카카오임팩트 테크포임팩트 캠퍼스 프로그램(KAIST, 2024 가을학기)의 지원을 받아 수행되었음"
 
-### 3.2 영문 논문
+### 2.2 영문 논문
 - Footnote:
   "This work was supported by Kakao Impact Tech for Impact Program"
 
@@ -48,21 +35,34 @@
   - 랩: "This research was supported by Kakao Impact Tech for Impact Lab Program (2nd Cohort, 2024)"
   - 캠퍼스: "This research was supported by Kakao Impact Tech for Impact Campus Program (KAIST, Fall 2024)"
 
-## 4. 해외 논문 사사표기
+## 3. 해외 논문 사사표기
 
-### 4.1 필수 표기 사항
+### 3.1 필수 표기 사항
 - Program Name: "Kakao Impact Tech for Impact Program"
 - Program Type: Lab Program 또는 Campus Program
 - Cohort/Period: 기수 또는 학기 정보
 - Support Type: "supported by" 또는 "funded by"
 
-### 4.2 형식
+### 3.2 형식
 - 기본형:
   "This work was supported by Kakao Impact Tech for Impact Program"
 
 - 확장형:
   - 랩: "This research was funded by Kakao Impact Tech for Impact Lab Program (2nd Cohort, 2024) as part of the [Project Name] initiative"
   - 캠퍼스: "This research was funded by Kakao Impact Tech for Impact Campus Program (KAIST, Fall 2024) as part of the [Project Name] initiative"
+
+## 4. 소속 표기
+### 4.1 테크포임팩트 랩
+- 국내 논문
+  - 제1저자/교신저자: [소속 LAB명], 모두의연구소
+  - '모두의연구소'는 띄어쓰기 없이 표기
+- 해외 논문
+  - 제1저자/교신저자: [소속 LAB명(영문)], MODULABS
+  - 'MODULABS'는 대문자로 표기
+
+### 4.2 테크포임팩트 캠퍼스
+- 국내 논문: 본인 소속 대학교의 소속 표기 기준을 따름
+- 해외 논문: 본인 소속 대학교의 영문 소속 표기 기준을 따름
 
 ## 5. 공동 연구 사사표기
 여러 기관의 지원을 받은 경우:
